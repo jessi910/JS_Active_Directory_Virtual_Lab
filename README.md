@@ -9,6 +9,7 @@
 🔹 Gained experience with password policies, account lockout settings, and Active Directory best practices
 
 💡 Tools & Technologies Used
+
 🖥️ Windows Server 2019
 
 📦 VirtualBox
